@@ -137,7 +137,7 @@ offer more opportunities for you to interact with your TA.
 
 - Discussion 02 (Week 4): [Section Notes](/assets/section_notes/week04.pdf), [Solution](/assets/section_notes/week04_solution.pdf)
 
-- Discussion 03 (Week 5): [Section Notes](/assets/section_notes/week05.pdf), [notebook](/assets/section_notes/DataC182_DiscussionWorksheet_3.ipynb). Open notebook on [Google Colab](https://colab.research.google.com/github/datac182fa24/datac182fa24.github.io/blob/main/assets/section_notes/DataC182_DiscussionWorksheet_3.ipynb)
+- Discussion 03 (Week 5): [Section Notes](/assets/section_notes/week05.pdf), [Solution](/assets/section_notes/week05_solution.pdf). [Notebook](/assets/section_notes/DataC182_DiscussionWorksheet_3.ipynb). Open notebook on [Google Colab](https://colab.research.google.com/github/datac182fa24/datac182fa24.github.io/blob/main/assets/section_notes/DataC182_DiscussionWorksheet_3.ipynb)
 
 [//]: # (- Discussion 4: [Section Notes]&#40;/assets/section_notes/week4.pdf&#41;, [Solution]&#40;/assets/section_notes/week4_solution.pdf&#41;)
 
