@@ -89,7 +89,7 @@ While this is not required for the course, we believe that the material here can
   <li>Bishop Book: Chapter 10 </li>
  </ul>
 <li> Lecture 08 [Week 5, 2024/09/24] <a href="assets/lecture_slides/data182_Lecture08_Backprop_Part2.pdf">Backprop Part 2</a> </li>
-<li> Lecture 09 [Week 5, 2024/09/26] Recurrent Neural Networks ("RNNs")</li>
+<li> Lecture 09 [Week 5, 2024/09/26] <a href="assets/lecture_slides/data182_Lecture9_RNNs.pdf"> Recurrent Neural Networks ("RNNs") </a> </li>
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
