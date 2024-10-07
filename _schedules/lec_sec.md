@@ -37,11 +37,11 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: Socs 140
-      - name: Discussion (TA Vivek Verma)
+      - name: Discussion (TA Yuxi Liu)
         start: 2:00 PM
         end: 3:00 PM
         location: HFax B5
-      - name: Discussion (TA Yuxi Liu)
+      - name: Discussion (TA Vivek Verma)
         start: 5:00 PM
         end: 6:00 PM
         location: HFax B5        
