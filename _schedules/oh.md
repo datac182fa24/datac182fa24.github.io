@@ -28,14 +28,10 @@ schedule:
   - name: Monday
     events:
       - name: Office Hours (Yuxi Liu)
-        start: 3:00 PM
-        end: 4:00 PM
-        location: Warren Hall 101-B (Region B)
-      - name: Office Hours (Vivek Verma)
         start: 5:00 PM
         end: 6:00 PM
         location: Warren Hall 101-B (Region A)
-      - name: Office Hours (Amogh Tantradi)
+      - name: Office Hours (Amogh Tantradi, Vivek Verma)
         start: 6:00 PM
         end: 7:00 PM
         location: Warren Hall 101-B (Region A)
