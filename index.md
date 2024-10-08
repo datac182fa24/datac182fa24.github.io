@@ -167,7 +167,7 @@ See the [course syllabus](https://datac182fa24.github.io/syllabus/#homeworks) fo
 
 - [Homework 1](https://github.com/datac182fa24/datac182_hw1_student), **due Tues Oct 8th 2024 11:59 PM PST**
 
-[//]: # (- [Homework 2]&#40;https://github.com/cs182sp22/cs182_hw2_student&#41;, **due 03/14/2022 11:59 PM PST**)
+- [Homework 2](/assets/homeworks/DataC182_FA24_HW2.pdf), **due Thurs Oct 24th 2024 11:59 PM PST**
 
 [//]: # (- [Homework 3]&#40;https://github.com/cs182sp22/cs182_hw3_student&#41;, **due 04/11/2022 11:59 PM PST**)
 
