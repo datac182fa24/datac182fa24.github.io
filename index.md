@@ -91,7 +91,8 @@ While this is not required for the course, we believe that the material here can
 <li> Lecture 08 [Week 5, 2024/09/24] <a href="assets/lecture_slides/data182_Lecture08_Backprop_Part2.pdf">Backprop Part 2</a> </li>
 <li> Lecture 09 [Week 5, 2024/09/26] <a href="assets/lecture_slides/data182_Lecture9_RNNs.pdf"> Recurrent Neural Networks ("RNNs") </a> </li>
 <li> Lecture 10 [Week 06, 2024/10/01] <a href="assets/lecture_slides/data182_Lecture10_Computer_Vision.pdf"> Computer Vision </a> </li>
-<li> Lecture 11 [Week 06, 2024/10/03] <a href="assets/lecture_slides/data182_Lecture11_Transformers1.pdf"> Transformers - 1 </a> </li>
+<li> Lecture 11 [Week 06, 2024/10/03] <a href="assets/lecture_slides/data182_Lecture11_Transformers1.pdf"> Transformers - Part 1 </a> </li>
+<li> Lecture 12 [Week 07, 2024/10/08] <a href="assets/lecture_slides/data182_Lecture12_Transformers_Part2.pdf"> Transformers - Part 2 </a> </li>
   
 </ul>
 
