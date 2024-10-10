@@ -95,7 +95,7 @@ While this is not required for the course, we believe that the material here can
 <li> Lecture 12 [Week 07, 2024/10/08] <a href="assets/lecture_slides/data182_Lecture12_Transformers_Part2.pdf"> Transformers - Part 2 </a> </li>
 <li> Lecture 13 [Week 07, 2024/10/10] <a href="assets/lecture_slides/data182_Lecture13_Transformers3.pdf"> Transformers - Part 1 </a> </li>
 <li>
-  <a href="assets/notebooks/Transformers 3.ipynb">[Transformers - Attention, Decoder-Encoder]</a>
+  <a href="assets/notebooks/Transformers 3.ipynb">Transformers Notebook (Attention, Decoder-Encoder)</a>
 </li>
   
 </ul>
