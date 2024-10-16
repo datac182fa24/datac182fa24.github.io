@@ -97,7 +97,8 @@ While this is not required for the course, we believe that the material here can
 <li>
   <a href="assets/notebooks/Transformers 3.ipynb">Transformers Notebook (Attention, Decoder-Encoder)</a>
 </li>
-  
+<li> Lecture 14 [Week 08, 2024/10/15] <a href="assets/lecture_slides/data182_Lecture14_Transformers_Part4.pdf"> Transformers - Part 4 </a> </li>
+
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
