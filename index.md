@@ -99,6 +99,11 @@ While this is not required for the course, we believe that the material here can
 </li>
 <li> Lecture 14 [Week 08, 2024/10/15] <a href="assets/lecture_slides/data182_Lecture14_Transformers_Part4.pdf"> Transformers - Part 4 </a> </li>
 <li> Lecture 15 [Week 09, 2024/10/17] <a href="assets/lecture_slides/data182_Lecture15_MTReview.pdf">  MidTerm Review </a> </li>
+
+<li> Lecture 16 [Week 11, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture16_NLP.pdf"> NLP: Pretraining </a> </li>
+<li>
+  <a href="assets/notebooks/Pretraining_word2vec.ipynb">Transformers Notebook (Attention, Decoder-Encoder)</a>
+</li>
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
