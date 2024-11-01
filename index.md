@@ -102,7 +102,7 @@ While this is not required for the course, we believe that the material here can
 
 <li> Lecture 16 [Week 11, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture16_NLP.pdf"> NLP: Pretraining </a> </li>
 <li>
-  <a href="assets/notebooks/Pretraining_word2vec.ipynb">Transformers Notebook (Attention, Decoder-Encoder)</a>
+  <a href="assets/notebooks/Pretraining_word2vec.ipynb">Pretraining word2vec</a>
 </li>
 </ul>
 
