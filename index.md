@@ -104,6 +104,9 @@ While this is not required for the course, we believe that the material here can
 <li>
   <a href="assets/notebooks/Pretraining_word2vec.ipynb">Pretraining word2vec</a>
 </li>
+
+<li> Lecture 17 [Week 11, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture17_VisualTransformer_MAE.pdf"> Visual Transformer, Masked Autoencoder</a> </li>
+
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
