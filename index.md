@@ -98,14 +98,12 @@ While this is not required for the course, we believe that the material here can
   <a href="assets/notebooks/Transformers 3.ipynb">Transformers Notebook (Attention, Decoder-Encoder)</a>
 </li>
 <li> Lecture 14 [Week 08, 2024/10/15] <a href="assets/lecture_slides/data182_Lecture14_Transformers_Part4.pdf"> Transformers - Part 4 </a> </li>
-<li> Lecture 15 [Week 09, 2024/10/17] <a href="assets/lecture_slides/data182_Lecture15_MTReview.pdf">  MidTerm Review </a> </li>
-
-<li> Lecture 16 [Week 11, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture16_NLP.pdf"> NLP: Pretraining </a> </li>
+<li> Lecture 15 [Week 08, 2024/10/17] <a href="assets/lecture_slides/data182_Lecture15_MTReview.pdf">  MidTerm Review </a> </li>
+<li> Lecture 16 [Week 10, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture16_NLP.pdf"> NLP: Pretraining </a> </li>
 <li>
   <a href="assets/notebooks/Pretraining_word2vec.ipynb">Pretraining word2vec</a>
 </li>
-
-<li> Lecture 17 [Week 11, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture17_VisualTransformer_MAE.pdf"> Visual Transformer, Masked Autoencoder</a> </li>
+<li> Lecture 17 [Week 11, 2024/11/05] <a href="assets/lecture_slides/data182_Lecture17_VisualTransformer_MAE.pdf"> Visual Transformer, Masked Autoencoder</a> </li>
 
 </ul>
 
