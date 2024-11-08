@@ -109,10 +109,16 @@ While this is not required for the course, we believe that the material here can
     </ul>
 <li> Lecture 17 [Week 11, 2024/11/05] <a href="assets/lecture_slides/data182_Lecture17_VisualTransformer_MAE.pdf"> Visual Transformer, Masked Autoencoder</a> </li>
 
-<li> Lecture 18 [Week 10, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture18_NLP_BERTandGPT.pdf"> NLP: Pretraining </a> </li>
+<li> Lecture 18 [Week 10, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture18_NLP_BERTandGPT.pdf"> NLP: Deep Encoded Representations </a> </li>
   <ul>
 <li>
-  <a href="assets/readings/GPT.pdf">GPT</a>
+  <a href="assets/readings/GPT.pdf">GPT (Radfor et al 2018)</a>
+</li>
+    <li>
+  <a href="assets/readings/BERT.pdf">GPT (Devlin et al 2019) </a>
+</li>
+    <li>
+  <a href="assets/readings/InstructGPT.pdf">InstructGPT (Ouyang et al 2022)</a>
 </li>
     </ul>
 
