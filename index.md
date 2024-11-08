@@ -112,7 +112,7 @@ While this is not required for the course, we believe that the material here can
 <li> Lecture 18 [Week 10, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture18_NLP_BERTandGPT.pdf"> NLP Pretraining: Deeply Encoded Representations </a> </li>
   <ul>
 <li>
-  <a href="assets/readings/GPT.pdf">GPT (Radfor et al 2018)</a>
+  <a href="assets/readings/GPT.pdf">GPT (Radford et al 2018)</a>
 </li>
     <li>
   <a href="assets/readings/BERT.pdf">GPT (Devlin et al 2019) </a>
