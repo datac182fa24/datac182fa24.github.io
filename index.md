@@ -121,6 +121,7 @@ While this is not required for the course, we believe that the material here can
   <a href="assets/readings/InstructGPT.pdf">InstructGPT (Ouyang et al 2022)</a>
 </li>
     </ul>
+<li> Lecture 19 [Week 12, 2024/11/12] <a href="assets/lecture_slides/data182_Lecture19_GPU_training.pdf"> Accelerating and scaling DNN training (GPU) </a> </li>
 
 </ul>
 
