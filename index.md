@@ -122,7 +122,9 @@ While this is not required for the course, we believe that the material here can
 </li>
     </ul>
 <li> Lecture 19 [Week 12, 2024/11/12] <a href="assets/lecture_slides/data182_Lecture19_GPU_training.pdf"> Accelerating and scaling DNN training (GPU) </a> </li>
-
+<ul>
+    <li> Guest Talk. Speaker: William Chen (TA), <a href="assets/lecture_slides/data182_Lecture19_guest_talk_william_chen_robotics_deep_learning.pdf"> Robotics and DL </a> </li>
+</ul>
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
