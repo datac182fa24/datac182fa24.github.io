@@ -127,10 +127,9 @@ While this is not required for the course, we believe that the material here can
 </ul>
  
 <li> Lecture 20 [Week 12, 2024/11/14] <a href="assets/lecture_slides/data182_Lecture20_FinalProject.pdf"> Final Project: Overview and Context </a> </li>
- <ul>
-<li>
-  <a href="assets/readings/Ashish-CIS.pdf">Assessing Software Fault Risk with Machine Learning</a>
-</li>
+<ul>
+    <li> <a href="assets/readings/Ashish-CIS.pdf">Assessing Software Fault Risk with Machine Learning</a></li>
+</ul>
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
