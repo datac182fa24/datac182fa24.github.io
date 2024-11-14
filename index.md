@@ -125,9 +125,9 @@ While this is not required for the course, we believe that the material here can
 <ul>
     <li> Guest Talk. Speaker: William Chen (TA), <a href="assets/lecture_slides/data182_Lecture19_guest_talk_william_chen_robotics_deep_learning.pdf"> Robotics and DL </a> </li>
 </ul>
-
+ <ul>
 <li> Lecture 20 [Week 12, 2024/11/14] <a href="assets/lecture_slides/data182_Lecture20_FinalProject.pdf"> Final Project: Overview and Context </a> </li>
-  <ul>
+ 
 <li>
   <a href="assets/readings/Ashish-CIS.pdf">Assessing Software Fault Risk with Machine Learning</a>
 </li>
