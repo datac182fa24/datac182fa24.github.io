@@ -132,7 +132,6 @@ While this is not required for the course, we believe that the material here can
   <a href="assets/readings/Ashish-CIS.pdf">Assessing Software Fault Risk with Machine Learning</a>
 </li>
   
-    </ul>
 
 </ul>
 
