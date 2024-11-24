@@ -130,6 +130,9 @@ While this is not required for the course, we believe that the material here can
 <ul>
     <li> <a href="assets/readings/Ashish-CIS.pdf">Assessing Software Fault Risk with Machine Learning</a></li>
 </ul>
+
+<li> Lecture 21 [Week 13, 2024/11/19] <a href="assets/lecture_slides/data182_Lecture21_Retrieval_Systems.pdf"> Recommendation Systems </a> </li>
+<li> Lecture 22 [Week 14, 2024/11/21] Guest Talk. Speaker: Yuxi Liu (TA), Neural Networks: 1900 - 1990 </li>
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
