@@ -200,6 +200,8 @@ offer more opportunities for you to interact with your TA.
 
 [//]: # (- Discussion 12: [Section Notes]&#40;/assets/section_notes/week12.pdf&#41;, [Solution]&#40;/assets/section_notes/week12_solution.pdf&#41;)
 
+[//]: # (- Discussion 13: [Section Notes]&#40;/assets/section_notes/week13.pdf&#41;, [Solution]&#40;/assets/section_notes/week13_solution.pdf&#41;)
+
 ## Homeworks
 All homeworks are graded for accuracy.
 See the [course syllabus](https://datac182fa24.github.io/syllabus/#homeworks) for info about collaboration, slip day, late policy.
