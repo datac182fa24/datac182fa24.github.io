@@ -195,15 +195,7 @@ offer more opportunities for you to interact with your TA.
 
 - Discussion 09 (Week 12): [Section Notes](/assets/section_notes/week12.pdf);, [Solution](/assets/section_notes/week12_solution.pdf)
 
-[//]: # (- Discussion 9: [Section Notes]&#40;/assets/section_notes/week9.pdf&#41;, [Solution]&#40;/assets/section_notes/week9_solution.pdf&#41;)
-
-[//]: # (- Discussion 10: [Section Notes]&#40;/assets/section_notes/week10.pdf&#41;, [Solution]&#40;/assets/section_notes/week10_solution.pdf&#41;)
-
-[//]: # (- Discussion 11: [Section Notes]&#40;/assets/section_notes/week11.pdf&#41;, [Solution]&#40;/assets/section_notes/week11_solution.pdf&#41;)
-
-[//]: # (- Discussion 12: [Section Notes]&#40;/assets/section_notes/week12.pdf&#41;, [Solution]&#40;/assets/section_notes/week12_solution.pdf&#41;)
-
-[//]: # (- Discussion 13: [Section Notes]&#40;/assets/section_notes/week13.pdf&#41;, [Solution]&#40;/assets/section_notes/week13_solution.pdf&#41;)
+- Discussion 10 (Week 13): [Section Notes](/assets/section_notes/week13.pdf);, [Solution](/assets/section_notes/week13_solution.pdf)
 
 ## Homeworks
 All homeworks are graded for accuracy.
