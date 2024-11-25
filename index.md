@@ -215,6 +215,8 @@ See the [course syllabus](https://datac182fa24.github.io/syllabus/#homeworks) fo
 
 - [Homework 3](https://github.com/datac182fa24/datac182_hw3_student), **due Fri Nov 22nd 2024 11:59 PM PST**
 
+- [Homework 4](https://github.com/datac182fa24/datac182_hw4_student), **due Sun Dec 15th 2024 11:59 PM PST**
+
 [//]: # (- [Homework 3]&#40;https://github.com/cs182sp22/cs182_hw3_student&#41;, **due 04/11/2022 11:59 PM PST**)
 
 [//]: # (- [Homework 4]&#40;https://colab.research.google.com/drive/1lLHAuIs4YW2tmG8Mhbc7VgvM7oiFev0E?usp=sharing&#41;, **due 05/02/2022 11:59 PM PST**)
