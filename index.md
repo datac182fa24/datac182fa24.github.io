@@ -130,6 +130,9 @@ While this is not required for the course, we believe that the material here can
 <ul>
     <li> <a href="assets/readings/Ashish-CIS.pdf">Assessing Software Fault Risk with Machine Learning</a></li>
 </ul>
+
+<li> Lecture 21 [Week 13, 2024/11/19] <a href="assets/lecture_slides/data182_Lecture21_Retrieval_Systems.pdf"> Recommendation Systems </a> </li>
+<li> Lecture 22 [Week 14, 2024/11/21] Guest Talk. Speaker: Yuxi Liu (TA), Neural Networks: 1900 - 1990 </li>
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
@@ -213,6 +216,8 @@ See the [course syllabus](https://datac182fa24.github.io/syllabus/#homeworks) fo
 - [Homework 2](/assets/homeworks/DataC182_FA24_HW2-2.pdf), **due Sun Oct 27th 2024 11:59 PM PST**
 
 - [Homework 3](https://github.com/datac182fa24/datac182_hw3_student), **due Fri Nov 22nd 2024 11:59 PM PST**
+
+- [Homework 4](https://github.com/datac182fa24/datac182_hw4_student), **due Sun Dec 15th 2024 11:59 PM PST**
 
 [//]: # (- [Homework 3]&#40;https://github.com/cs182sp22/cs182_hw3_student&#41;, **due 04/11/2022 11:59 PM PST**)
 
