@@ -101,6 +101,9 @@ While this is not required for the course, we believe that the material here can
   </ul>
 <li> Lecture 14 [Week 08, 2024/10/15] <a href="assets/lecture_slides/data182_Lecture14_Transformers_Part4.pdf"> Transformers - Part 4 </a> </li>
 <li> Lecture 15 [Week 08, 2024/10/17] <a href="assets/lecture_slides/data182_Lecture15_MTReview.pdf">  MidTerm Review </a> </li>
+<li> Lecture N/A [Week 09, 2024/10/22] MidTerm </li>
+<li> Lecture N/A [Week 09, 2024/10/24] No lecture </li>
+<li> Lecture N/A [Week 10, 2024/10/29] No lecture </li>
 <li> Lecture 16 [Week 10, 2024/10/31] <a href="assets/lecture_slides/data182_Lecture16_NLP.pdf"> NLP: Pretraining </a> </li>
   <ul>
 <li>
@@ -132,7 +135,10 @@ While this is not required for the course, we believe that the material here can
 </ul>
 
 <li> Lecture 21 [Week 13, 2024/11/19] <a href="assets/lecture_slides/data182_Lecture21_Retrieval_Systems.pdf"> Recommendation Systems </a> </li>
-<li> Lecture 22 [Week 14, 2024/11/21] Guest Talk. Speaker: Yuxi Liu (TA), Neural Networks: 1900 - 1990 </li>
+<li> Lecture 22 [Week 13, 2024/11/21] Guest Talk. Speaker: Yuxi Liu (TA), <a href="assets/lecture_slides/data182_Lecture21_Retrieval_Systems.pdf"> Neural Networks: 1900 - 1990 </a> </li>
+
+<li> Lecture 23 [Week 14, 2024/11/26] Guest Talk. Speaker: Jinjian Liu (Tutor), TBD </li>
+<li> Lecture N/A [Week 14, 2024/11/28] No lecture (Thanksgiving holiday) </li>
 </ul>
 
 [//]: # (- [2022/01/31: Neural Networks]&#40;/assets/lecture_slides/2022.01.31-neural-networks.pdf&#41;)
