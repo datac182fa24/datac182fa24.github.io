@@ -136,8 +136,7 @@ While this is not required for the course, we believe that the material here can
 
 <li> Lecture 21 [Week 13, 2024/11/19] <a href="assets/lecture_slides/data182_Lecture21_Retrieval_Systems.pdf"> Recommendation Systems </a> </li>
 <li> Lecture 22 [Week 13, 2024/11/21] Guest Talk. Speaker: Yuxi Liu (TA), <a href="assets/lecture_slides/data182_Lecture22_Neural_Networks_1900-1990.pdf"> Neural Networks: 1900 - 1990 </a> </li>
-
-<li> Lecture 23 [Week 14, 2024/11/26] Guest Talk. Speaker: Jinjian Liu (Tutor), TBD </li>
+<li> Lecture 23 [Week 14, 2024/11/26] Guest Talk. Speaker: Jinjian Liu (Tutor), <a href="assets/lecture_slides/data182_Lecture23_Repository_to_Environment.pdf">Repository to Environment </a></li>
 <li> Lecture N/A [Week 14, 2024/11/28] No lecture (Thanksgiving holiday) </li>
 </ul>
 
